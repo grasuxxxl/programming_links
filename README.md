@@ -4,4 +4,4 @@ Collection of links i find interesting. Reason? I kept forgetting some interesti
 
 
 * Should at least skim
-  * http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/
+  * http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/ (The Implementation of Functional Programming Languages)
